@@ -1,7 +1,7 @@
 package com.company;
 
 public class Main {
-
+//changes
     public static void main(String[] args) {
         for (int myNumber = 1; myNumber <=100; myNumber++) {
             if ((myNumber % 3 == 0) && (myNumber % 5 == 0)) {
